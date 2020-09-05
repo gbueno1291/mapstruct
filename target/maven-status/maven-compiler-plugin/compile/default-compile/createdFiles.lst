@@ -1,0 +1,9 @@
+com/mapstruct/Mapstruct/to/ClienteTO.class
+com/mapstruct/Mapstruct/mappers/ContaMapper.class
+com/mapstruct/Mapstruct/MapstructApplication.class
+com/mapstruct/Mapstruct/models/Conta.class
+com/mapstruct/Mapstruct/mappers/ContaMapperImpl.class
+com/mapstruct/Mapstruct/models/Cliente.class
+com/mapstruct/Mapstruct/mappers/ClienteMapperImpl.class
+com/mapstruct/Mapstruct/to/ContaTO.class
+com/mapstruct/Mapstruct/mappers/ClienteMapper.class
